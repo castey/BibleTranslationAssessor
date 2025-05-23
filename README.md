@@ -1,6 +1,6 @@
 # Bible Translation Assessor
 
-This repository contains a json file containing verses from the KJV, ESV, NIV, and NLT along with the source text from which they were translated. Sourcing was done through ChatGPT and while they have been cross-reference through biblehub.com, I don't know enough about biblical manuscripts to assert sufficient authenticity exists. Nonetheless embeddings were created from each verse and cosine similarity measured and plotted. 
+This repository contains a json file containing verses from the KJV, ESV, NIV, and NLT along with the source text from which they were translated. Sourcing was done through ChatGPT and while they have been cross-referenced through biblehub.com, I don't know enough about biblical manuscripts to assert sufficient authenticity exists. Nonetheless embeddings were created from each verse and cosine similarity measured and plotted. 
 
 The goal is to use OpenAI text embeddings to assess the semantic similarity between the source text and its English translations. This analysis can help visualize how closely each translation aligns, semantically, with the source verse.
 
