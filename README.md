@@ -20,7 +20,7 @@ Cosine similarity was then computed between the source text embedding and each t
 
 ## 📈 Example Plots
 
-Below are example cosine similarity plots showing how closely each translation aligns with the source text:
+Below are example cosine similarity plots showing how closely each translation aligns with the source text. A higher score means the translation is semantically closer to the source text.
 
 ### 1 Timothy 2:12  
 ![1 Timothy 2:12](plots/1_Timothy_2-12.png)
