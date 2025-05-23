@@ -5,12 +5,14 @@ This repository contains a json file containing verses from the KJV, ESV, NIV, a
 The goal is to use OpenAI text embeddings to assess the semantic similarity between the source text and its English translations. This analysis can help visualize how closely each translation aligns, semantically (as represented by the embedding model), with the source verse.
 
 ## Embeddings and Cosine Similarity 
-Embeddings were generated using OpenAI’s text-embedding-3-large embedding model to capture the semantic content of each verse in both the translated texts and the source text. Cosine similarity was then computed between the source text embedding and each translated text embeddings. These similarity scores were plotted for each verse to visualize how semantically aligned each English translation is to the original source text.
+Embeddings were generated using OpenAI’s text-embedding-3-large embedding model to capture the semantic content of each verse in both the translated texts and the source text. 
+
+Cosine similarity was then computed between the source text embedding and each translated text embeddings. These similarity scores were plotted for each verse.
 
 ## Further Work
 * More embedding models should be used and their results analysed and compared. 
 
-* Expand dataset with more verses 
+* Expand dataset with more verses. 
 
 * Source text accuracy should be verified by a biblical linguist. 
 
