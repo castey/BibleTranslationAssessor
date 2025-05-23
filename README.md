@@ -20,10 +20,6 @@ Cosine similarity was then computed between the source text embedding and each t
 
 ## 📈 Example Plots
 
-Below are sample cosine similarity plots showing how closely each English translation aligns with the source text:
-
-## 📈 Example Plots
-
 Below are example cosine similarity plots showing how closely each translation aligns with the source text:
 
 ### 1 Timothy 2:12  
