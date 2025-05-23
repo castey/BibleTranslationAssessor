@@ -1,0 +1,67 @@
+{
+  "Romans 8:1": {
+    "source": {
+      "language": "Greek",
+      "text": "Οὐδὲν ἄρα νῦν κατάκριμα τοῖς ἐν Χριστῷ Ἰησοῦ.",
+      "transliteration": "Ouden ara nyn katakrima tois en Christō Iēsou."
+    },
+    "translations": {
+      "KJV": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.",
+      "ESV": "There is therefore now no condemnation for those who are in Christ Jesus.",
+      "NIV": "Therefore, there is now no condemnation for those who are in Christ Jesus.",
+      "NLT": "So now there is no condemnation for those who belong to Christ Jesus."
+    }
+  },
+  "Luke 17:21": {
+    "source": {
+      "language": "Greek",
+      "text": "οὐδὲ ἐροῦσιν· ἰδοὺ ὧδε ἢ ἐκεῖ· ἰδοὺ γὰρ ἡ βασιλεία τοῦ θεοῦ ἐντὸς ὑμῶν ἐστιν.",
+      "transliteration": "oude erousin: idou hōde ē ekei: idou gar hē basileia tou theou entos hymōn estin."
+    },
+    "translations": {
+      "KJV": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you.",
+      "ESV": "Nor will they say, ‘Look, here it is!’ or ‘There!’ for behold, the kingdom of God is in the midst of you.",
+      "NIV": "Nor will people say, ‘Here it is,’ or ‘There it is,’ because the kingdom of God is in your midst.",
+      "NLT": "You won’t be able to say, ‘Here it is!’ or ‘It’s over there!’ For the Kingdom of God is already among you."
+    }
+  },
+  "1 Timothy 2:12": {
+    "source": {
+      "language": "Greek",
+      "text": "διδάσκειν δὲ γυναικὶ οὐκ ἐπιτρέπω οὐδὲ αὐθεντεῖν ἀνδρός, ἀλλ’ εἶναι ἐν ἡσυχίᾳ.",
+      "transliteration": "didaskein de gynaiki ouk epitrepō oude authentein andros, all’ einai en hēsychia."
+    },
+    "translations": {
+      "KJV": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence.",
+      "ESV": "I do not permit a woman to teach or to exercise authority over a man; rather, she is to remain quiet.",
+      "NIV": "I do not permit a woman to teach or to assume authority over a man; she must be quiet.",
+      "NLT": "I do not let women teach men or have authority over them. Let them listen quietly."
+    }
+  },
+  "Genesis 3:16": {
+    "source": {
+      "language": "Hebrew",
+      "text": "וְאֶל־אִישֵׁךְ תְּשׁוּקָתֵךְ וְהוּא יִמְשָׁל־בָּךְ׃",
+      "transliteration": "ve’el ishekh teshuqatekh vehu yimshal-bakh."
+    },
+    "translations": {
+      "KJV": "Thy desire shall be to thy husband, and he shall rule over thee.",
+      "ESV": "Your desire shall be contrary to your husband, but he shall rule over you.",
+      "NIV": "Your desire will be for your husband, and he will rule over you.",
+      "NLT": "And you will desire to control your husband, but he will rule over you."
+    }
+  },
+  "Ecclesiastes 11:1": {
+    "source": {
+      "language": "Hebrew",
+      "text": "שְׁלַח לַחְמְךָ עַל־פְּנֵי הַמָּיִם כִּי בְרֹב הַיָּמִים תִּמְצָאֶנּוּ׃",
+      "transliteration": "shelakh lakhmekha al-penei hamayim ki ve-rov hayamim timtzaennu."
+    },
+    "translations": {
+      "KJV": "Cast thy bread upon the waters: for thou shalt find it after many days.",
+      "ESV": "Cast your bread upon the waters, for you will find it after many days.",
+      "NIV": "Ship your grain across the sea; after many days you may receive a return.",
+      "NLT": "Send your grain across the seas, and in time, profits will flow back to you."
+    }
+  }
+}
